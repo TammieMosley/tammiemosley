@@ -24,11 +24,11 @@
                 <div class="hero-text mb-4 mb-lg-5 pb-lg-5">
                   <h1 class="hero-title" style="font-size: 45px;">I'm Proud To Serve Our <span style="font-size: 94px; font-weight: 600; color: #166FB3">Community.</span></h1>
                   <p class="hero-desc" style="font-size: 19px;">Since 2016, Tammie Mosley has proudly served as Chatham County Superior Court Clerk. Delivering State-of-the-art customer service continues to be at the core of her time in office.</p>
-                  <a href="#" class="primary-btn mt-2 d-inline-block">Learn More</a>
+                  <a href="/index.php#firstsection" class="primary-btn mt-2 d-inline-block">Learn More</a>
                 </div>
               </div>
               <div class="col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end hero-img-wrapper">
-                <img src="https://gdurl.com/jsW9" alt="" class="hero-img img-fluid">
+                <img src="/img/Frame 2.png" alt="" class="hero-img img-fluid">
               </div>
             </div>
           </div>
@@ -43,19 +43,16 @@
           <div class="row">
             <div class="col-lg-3">
               <h3 class="our-partners" style="font-size: 23px; font-weight: 600;">Affiliations</h3>
-              <p class="pb-0" style="font-size: 13px;">Groups or causes Tammie Mosley has a current or former membership or affiliation.</p>
+              <p class="pb-0" style="font-size: 13px;">Groups and causes Tammie Mosley has a current or former membership or affiliation.</p>
             </div>
             <div class="col-4 col-lg-2 d-flex justify-content-center align-items-center mt-4 mt-lg-0">
               <img src="./img/state_logo.png" alt="GA Democratic State Party Logo" class="img-fluid">
             </div>
             <div class="col-4 col-lg-2 d-flex justify-content-center align-items-center mt-4 mt-lg-0">
-              <img src="./img/clerk-of-superior-court-chatham-county-georgia-GA.png" alt="CSCCCGA Logo" class="img-fluid">
+              <img src="./img/clerk-of-superior-court-chatham-county-georgia-GA.png" alt="Chatham County Superior Court Clerk Logo" class="img-fluid">
             </div>
             <div class="col-4 col-lg-2 d-flex justify-content-center align-items-center mt-4 mt-lg-0">
-              <img src="https://gdurl.com/so_e" alt="Chatham County Logo" class="img-fluid">
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center d-none d-lg-block">
-              <img src="https://gdurl.com/kTNY" alt="Savannah Rotary Club international Logo" class="img-fluid">
+              <img src="./img/Chatham-County-Georgia_Logo_tammiemosley_com_COMMUNITY_82x82-transformed.png" alt="Chatham County Logo" class="img-fluid">
             </div>
           </div>
         </div>
@@ -509,9 +506,11 @@
 
 
       <!-- Our Impact Section Start -->
+      <br>
+      <br>
+      <br>
       <section class="our-impact-section py-5">
         <div class="container">
-
           <div id="carouselExampleIndicators" class="carousel slide our-impact-slider">
             <div class="carousel-indicators pb-3 pb-lg-0">
               <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active btn-ghost-bg" aria-current="true" aria-label="Slide 1"><span>Message from the Clerk</span></button>
@@ -557,7 +556,7 @@
                     </div>
                   </div>
                   <div class="col-lg-6 d-flex align-items-center justify-content-end">
-                    <img src="./img/Copy of Tammie+Moncello.jpg" alt="Impact image" class="img-fluid our-impact-img">
+                    <img src="./img/Blue and Peach Gradient Facebook Profile Picture.jpg" alt="Impact image" class="img-fluid our-impact-img">
                   </div>
                 </div>
               </div>
@@ -568,7 +567,7 @@
           
                       <h2 class="section-title text-center text-lg-start">Our Mission.</h2>
 
-                      <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">Excepturi aut impedit ut minus sint. Excepturi quo quis. Aut necessitatibus deleniti est totam itaque ut. Non ex sit facilis ducimus. Et voluptates quis in corrupti velit ut explicabo nam nulla. Corporis earum eius aut.</p>
+                      <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">As one of four Georgia state constitutional office-holders in Chatham County, my top priority is to protect the records of the people. Every decision I make aims at evolving services to improve citizens' lives and ensure an efficient experience with the Chatham County Clerk of Superior Court office.</p>
                       
                       <div class="client-info p-3 rounded-4 d-inline-block">
                         <h4 class="client-name">Tammie Moslely</h4>
@@ -577,7 +576,7 @@
                     </div>
                   </div>
                   <div class="col-lg-6 d-flex align-items-center justify-content-end">
-                    <img src="./img/our-impact.png" alt="Impact image" class="img-fluid our-impact-img">
+                    <img src="./img/Copy of Tammie+adopt-a-dog.jpg" alt="Impact image" class="img-fluid our-impact-img">
                   </div>
                 </div>
               </div>
@@ -588,7 +587,7 @@
           
                       <h2 class="section-title text-center text-lg-start">Our Programs.</h2>
 
-                      <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">Excepturi aut impedit ut minus sint. Excepturi quo quis. Aut necessitatibus deleniti est totam itaque ut. Non ex sit facilis ducimus. Et voluptates quis in corrupti velit ut explicabo nam nulla. Corporis earum eius aut.</p>
+                      <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">As one of four Georgia state constitutional office-holders in Chatham County, my top priority is to protect the records of the people. Every decision I make aims at evolving services to improve citizens' lives and ensure an efficient experience with the Chatham County Clerk of Superior Court office.</p>
                       
                       <div class="client-info p-3 rounded-4 d-inline-block">
                         <h4 class="client-name">Tammie Moslely</h4>
@@ -597,7 +596,7 @@
                     </div>
                   </div>
                   <div class="col-lg-6 d-flex align-items-center justify-content-end">
-                    <img src="./img/our-impact.png" alt="Impact image" class="img-fluid our-impact-img">
+                    <img src="./img/Deputizing-Staff_1.jpg" alt="Impact image" class="img-fluid our-impact-img">
                   </div>
                 </div>
               </div>
@@ -608,7 +607,7 @@
           
                       <h2 class="section-title text-center text-lg-start">Our Journey.</h2>
 
-                      <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">Excepturi aut impedit ut minus sint. Excepturi quo quis. Aut necessitatibus deleniti est totam itaque ut. Non ex sit facilis ducimus. Et voluptates quis in corrupti velit ut explicabo nam nulla. Corporis earum eius aut.</p>
+                      <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">As one of four Georgia state constitutional office-holders in Chatham County, my top priority is to protect the records of the people. Every decision I make aims at evolving services to improve citizens' lives and ensure an efficient experience with the Chatham County Clerk of Superior Court office.</p>
                       
                       <div class="client-info p-3 rounded-4 d-inline-block">
                         <h4 class="client-name">Tammie Moslely</h4>
@@ -646,29 +645,29 @@
         <div class="container">
           <div class="row text-center text-lg-start">
             <div class="col-lg-7">
-              <h2 class="section-title">Our Services.</h2>
+              <h2 class="section-title">Office Services</h2>
               <div class="row gy-md-4 gy-2 mt-3 text-center text-lg-start">
                 <div class="col-lg-4 order-1 order-lg-1">
                   <h4 class="service-title">eCertifications</h4>
-                  <p class="service-text">Excepturi aut impedit ut minus sint. Excepturi quo quis. Aut necessitatibus deleniti est totam itaque ut.</p>
+                  <p class="service-text">Electronically certify records from the comfort of your home or anywhere you have internet access.</p>
                 </div>
                 <div class="col-lg-8 order-2 order-lg-2">
                   <h4 class="service-title">Notaries</h4>
-                  <p class="service-text w-50">Excepturi aut impedit ut minus sint. Excepturi quo quis. Aut necessitatibus deleniti est totam itaque ut.</p>
+                  <p class="service-text w-50">Schedule an in-person appointment to have your documents notarized or apply to become a notary.</p>
                 </div>
                 <div class="col-lg-4 order-4 order-lg-3">
                   <h4 class="service-title">Passports</h4>
-                  <p class="service-text">Excepturi aut impedit ut minus sint. Excepturi quo quis. Aut necessitatibus deleniti est totam itaque ut.</p>
+                  <p class="service-text">My office prepares everything you need for your passport application, including photos!</p>
                 </div>
                 <div class="col-lg-8 order-3 order-lg-4">
                   <h4 class="service-title">FANS (Filing Activity Notifications System)</h4>
-                  <p class="service-text w-50">Excepturi aut impedit ut minus sint. Excepturi quo quis. Aut necessitatibus deleniti est totam itaque ut.</p>
+                  <p class="service-text w-50">Monitor related real estate and personal property records filings.</p>
                 </div>
               </div>
               <a href="#" class="primary-btn mt-4 d-inline-block mb-4 mb-lg-0">Learn More</a>
             </div>     
             <div class="col-lg-5 img-col" style="background-image: url(&quot;./img/services-img.png&quot;);box-shadow: none;background-repeat: no-repeat;padding: 40px;">
-              <img src="img/tammie-mosley_COMMUNITY_thank-you.webp" alt="Services" class="img-fluid bgg-img">
+              <img src="img/20230212_192319_0000.png" alt="Services" class="img-fluid bgg-img">
             </div>
           </div>
         </div>
@@ -681,7 +680,7 @@
         <div class="container">
           <div class="section-heading text-center">
             <h2 class="section-title">Featured News</h2>
-            <p class="section-desc mx-auto">Quae ipsam et vero omnis et non necessitatibus laboriosam vel. Quia exercitationem aut dolorum dicta vitae. Quia quas assumenda nobis.</p>
+            <p class="section-desc mx-auto">Read the latest news about Tammie Mosley and her programs, services and community programming while in office as the Chatham County Clerk of Superior Court.</p>
           </div>
 
           <!-- News Slider -->
@@ -754,7 +753,7 @@
         <div class="container">
           <div class="section-heading text-center">
             <h2 class="section-title">Volunteer</h2>
-            <p class="section-desc mx-auto">Quae ipsam et vero omnis et non necessitatibus laboriosam vel. Quia exercitationem aut dolorum dicta vitae. Quia quas assumenda nobis.</p>
+            <p class="section-desc mx-auto">Can you share your time and skills with the Friends of Tammie Mosley? Sign up to volunteer with us!</p>
           </div>
 
           <!-- News Slider -->

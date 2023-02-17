@@ -4,7 +4,12 @@
 <?php include "inc/links.php"; ?>
  <link href="css/gallery.css" rel="stylesheet">
     <title>Friends of Tammie Mosley | Home Page</title>
-<style type="text/css">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <style type="text/css">
   .gobtn{
     display: inline-block;
     padding: 10px 30px;
@@ -139,7 +144,7 @@
       <!-- Partner Area End -->
 
       <!-- Service Area Start -->
-      <div class="partner-area py-5" style="background-color:#b8daff">
+      <div class="partner-area py-5" id="services" style="background-color:#b8daff">
         <div class="container">
           <div class="row">
             <div class="col-lg-8 offset-md-2" align="center">
@@ -157,7 +162,7 @@
                   </div>
                   <h3 style="margin-top:15px;margin-bottom: 0px !important;"  class=" text-center mb-4">eCertification</h3>
                   <p class=" text-center mb-4">Electronically certified records from the comfort of your home.</p>
-                  <a href="#" class="cta px-md-3 py-md-2 rounded-pill" style="background: rgb(22, 111, 179); color: rgb(255, 255, 255); font-weight: 600; border: 2px solid rgb(22, 111, 179);" onmouseover="this.style.background = 'transparent'; this.style.color = '#166FB3'" onmouseout="this.style.background = '#166FB3'; this.style.color = '#fff'">View More</a>
+                  <a href="https://ecertification.tammiemosley.com" target="_blank" class="cta px-md-3 py-md-2 rounded-pill" style="background: rgb(22, 111, 179); color: rgb(255, 255, 255); font-weight: 600; border: 2px solid rgb(22, 111, 179);" onmouseover="this.style.background = '#ffffff'; this.style.color = '#166FB3'" onmouseout="this.style.background = '#166FB3'; this.style.color = '#fff'">Learn More</a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 mbb-3" align="center">
                   <div class="feature-img">
@@ -165,7 +170,7 @@
                   </div>
                   <h3 style="margin-top:15px;margin-bottom: 0px !important;"  class=" text-center mb-4">F.A.N.S.</h3>
                   <p class=" text-center mb-4">Monitor related real estate and personal property records filings.</p>
-                  <a href="#" class="cta px-md-3 py-md-2 rounded-pill" style="background: rgb(22, 111, 179); color: rgb(255, 255, 255); font-weight: 600; border: 2px solid rgb(22, 111, 179);" onmouseover="this.style.background = 'transparent'; this.style.color = '#166FB3'" onmouseout="this.style.background = '#166FB3'; this.style.color = '#fff'">View More</a>
+                  <a href="https://fans.tammiemosley.com" target="_blank" class="cta px-md-3 py-md-2 rounded-pill" style="background: rgb(22, 111, 179); color: rgb(255, 255, 255); font-weight: 600; border: 2px solid rgb(22, 111, 179);" onmouseover="this.style.background = '#ffffff'; this.style.color = '#166FB3'" onmouseout="this.style.background = '#166FB3'; this.style.color = '#fff'">View More</a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 mbb-3" align="center">
                   <div class="feature-img">
@@ -173,7 +178,7 @@
                   </div>
                   <h3 style="margin-top:15px;margin-bottom: 0px !important;"  class=" text-center mb-4">Passports</h3>
                   <p class=" text-center mb-4">It's my mission to make applying for passports easy.</p>
-                  <a href="#" class="cta px-md-3 py-md-2 rounded-pill" style="background: rgb(22, 111, 179); color: rgb(255, 255, 255); font-weight: 600; border: 2px solid rgb(22, 111, 179);" onmouseover="this.style.background = 'transparent'; this.style.color = '#166FB3'" onmouseout="this.style.background = '#166FB3'; this.style.color = '#fff'">View More</a>
+                  <a href="https://passports.tammiemosley.com" target="_blank" class="cta px-md-3 py-md-2 rounded-pill" style="background: rgb(22, 111, 179); color: rgb(255, 255, 255); font-weight: 600; border: 2px solid rgb(22, 111, 179);" onmouseover="this.style.background = '#ffffff'; this.style.color = '#166FB3'" onmouseout="this.style.background = '#166FB3'; this.style.color = '#fff'">Read More</a>
                 </div>
                                                   
             </div>
@@ -207,7 +212,7 @@
                           <div class="form">
                             <form action="https://docs.google.com/forms/d/e/1FAIpQLSeJa7sebqpJuKZvisJrCgFdwR3rsbQKe0RVaVtYhFYWlOOozw/formResponse">
                             <input type="email" class="form__email" placeholder="Enter your email address" name="entry.1323937237" />
-                            <button class="primary-btn d-inline-block mt-4" type="submit" style="padding: 18px 50px;">Send</button>
+                            <button class="primary-btn d-inline-block mt-4" type="submit" style="padding: 18px 50px;" onmouseover="this.style.background = '#ffffff'; this.style.color = '#166FB3'" onmouseout="this.style.background = '#166FB3'; this.style.color = '#fff'">Submit</button>
                             
                           </div>
                           <div class="notice">

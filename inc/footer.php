@@ -12,14 +12,12 @@
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Address<span></span></p>
-                        <p><i class="fa fa-map-marker-alt me-3"></i>108 E York St #104, Savannah, GA 31401</p>
+                        <a href="https://goo.gl/maps/7KBgf6mG7UY2yCWL9" target="_blank"><p><i class="fa fa-map-marker-alt me-3"></i>108 E York St #104, Savannah, GA 31401</p></a>
                         <a href="tel:9128560209"><p><i class="fa fa-phone-alt me-3"></i>+1 912-856-0209</p><a/>
                         <a href="mailto:info@tammiemosley.com"><p><i class="fa fa-envelope me-3"></i>info@example.com</p></a>
                         <div class="d-flex pt-2">
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/TammieMosleyForSuperiorCourtClerk" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://www.linkedin.com/in/tammie-mosley-233674116/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3">
