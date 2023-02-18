@@ -525,7 +525,7 @@
                   <div class="col-lg-6">
                     <div class="quote-area mt-4 text-center text-lg-start">
 
-                      <h2 class="section-title text-center text-lg-start">Our Impact.</h2>
+                      <h2 class="section-title text-center text-lg-start">Our Impact</h2>
           
                       <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">As one of four Georgia state constitutional office-holders in Chatham County, my top priority is to protect the records of the people. Every decision I make aims at evolving services to improve citizens' lives and ensure an efficient experience with the Chatham County Clerk of Superior Court office.</p>
                       
@@ -545,7 +545,7 @@
                   <div class="col-lg-6">
                     <div class="quote-area mt-4 text-center text-lg-start">
           
-                      <h2 class="section-title text-center text-lg-start">Our Causes.</h2>
+                      <h2 class="section-title text-center text-lg-start">Our Causes</h2>
 
                       <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">As one of four Georgia state constitutional office-holders in Chatham County, my top priority is to protect the records of the people.</p>
                       
@@ -565,7 +565,7 @@
                   <div class="col-lg-6">
                     <div class="quote-area mt-4 text-center text-lg-start">
           
-                      <h2 class="section-title text-center text-lg-start">Our Mission.</h2>
+                      <h2 class="section-title text-center text-lg-start">Our Mission</h2>
 
                       <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">As one of four Georgia state constitutional office-holders in Chatham County, my top priority is to protect the records of the people. Every decision I make aims at evolving services to improve citizens' lives and ensure an efficient experience with the Chatham County Clerk of Superior Court office.</p>
                       
@@ -585,7 +585,7 @@
                   <div class="col-lg-6">
                     <div class="quote-area mt-4 text-center text-lg-start">
           
-                      <h2 class="section-title text-center text-lg-start">Our Programs.</h2>
+                      <h2 class="section-title text-center text-lg-start">Our Programs</h2>
 
                       <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">As one of four Georgia state constitutional office-holders in Chatham County, my top priority is to protect the records of the people. Every decision I make aims at evolving services to improve citizens' lives and ensure an efficient experience with the Chatham County Clerk of Superior Court office.</p>
                       
@@ -605,7 +605,7 @@
                   <div class="col-lg-6">
                     <div class="quote-area mt-4 text-center text-lg-start">
           
-                      <h2 class="section-title text-center text-lg-start">Our Journey.</h2>
+                      <h2 class="section-title text-center text-lg-start">Our Journey</h2>
 
                       <p class="quote px-4 mb-4 mb-lg-5 text-center text-lg-start">As one of four Georgia state constitutional office-holders in Chatham County, my top priority is to protect the records of the people. Every decision I make aims at evolving services to improve citizens' lives and ensure an efficient experience with the Chatham County Clerk of Superior Court office.</p>
                       
@@ -664,7 +664,7 @@
                   <p class="service-text w-50">Monitor related real estate and personal property records filings.</p>
                 </div>
               </div>
-              <a href="#" class="primary-btn mt-4 d-inline-block mb-4 mb-lg-0">Learn More</a>
+              <a href="/index.php#firstsection" class="primary-btn mt-4 d-inline-block mb-4 mb-lg-0">Learn More</a>
             </div>     
             <div class="col-lg-5 img-col" style="background-image: url(&quot;./img/services-img.png&quot;);box-shadow: none;background-repeat: no-repeat;padding: 40px;">
               <img src="img/20230212_192319_0000.png" alt="Services" class="img-fluid bgg-img">
