@@ -5,7 +5,7 @@
  <link href="css/gallery.css" rel="stylesheet">
     <title>Friends of Tammie Mosley | Home Page</title>
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/iconmg/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
@@ -148,7 +148,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-8 offset-md-2" align="center">
-             <h2 class="section-title text-center">Services Area</h2>
+             <h2 class="section-title text-center">Services</h2>
           <p class=" text-center mb-4">"In keeping with the changing needs of the public, it is one of our goals to expand our on-line services each year. It is our desire for you to take care of as much of your court business as possible on-line rather than in line. We currently provide E-Notary and e-filing of UCC’s, e-filing of real estate documents and plats, and e-filing of civil and family documents."</p>
           
             </div>
