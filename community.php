@@ -70,7 +70,7 @@
               <div class="gallery-slider">
 
                 <div class="gallery-item mx-3" style="border-radius: 17px; border-left: 5px solid #120C3C; display: flex; align-items: center; padding: 12px 10px; background: #C7ACC7;">
-                  <img src="./img/member1.png" alt="Neil Grady" class="img-fluid">
+                  <img src="./img/member1.png" alt="Edy Gresham" class="img-fluid">
                   <div class="member-info d-flex flex-column justify-content-center" style="margin-left: 10px;">
                     <h5 class="member-name" style="font-size: 16px; font-weight: 700;">Edy Gresham</h5>
                     <p class="mb-0 status" style="font-size: 13px; font-weight: 500;">Field Director</p>
@@ -79,7 +79,7 @@
               
             
                 <div class="gallery-item mx-3" style="border-radius: 17px; border-left: 5px solid #120C3C; display: flex; align-items: center; padding: 12px 10px; background: #230774; color: rgba(255,255,255,0.5);">
-                  <img src="./img/member2.png" alt="Neil Grady" class="img-fluid">
+                  <img src="./img/member2.png" alt="Lynn Goodman" class="img-fluid">
                   <div class="member-info d-flex flex-column justify-content-center" style="margin-left: 10px;">
                     <h5 class="member-name" style="font-size: 16px; font-weight: 700; color: #fff;">Lynn Goodmam</h5>
                     <p class="mb-0 status" style="font-size: 13px; font-weight: 500;">Advisor</p>
@@ -87,7 +87,7 @@
                 </div>
               
                 <div class="gallery-item mx-3" style="border-radius: 17px; border-left: 5px solid #120C3C; display: flex; align-items: center; padding: 12px 10px; background: #C7ACC7;">
-                  <img src="./img/member3.png" alt="Neil Grady" class="img-fluid">
+                  <img src="./img/member3.png" alt="Helen Jordan" class="img-fluid">
                   <div class="member-info d-flex flex-column justify-content-center" style="margin-left: 10px;">
                     <h5 class="member-name" style="font-size: 16px; font-weight: 700;">Helen Jordan</h5>
                     <p class="mb-0 status" style="font-size: 13px; font-weight: 500;">Community Liaison</p>
@@ -95,16 +95,16 @@
                 </div>
 
                 <div class="gallery-item mx-3" style="border-radius: 17px; border-left: 5px solid #120C3C; display: flex; align-items: center; padding: 12px 10px; background: #C7ACC7;">
-                  <img src="./img/member4.png" alt="Neil Grady" class="img-fluid">
+                  <img src="./img/member4.png" alt="Kay Ford" class="img-fluid">
                   <div class="member-info d-flex flex-column justify-content-center" style="margin-left: 10px;">
                     <h5 class="member-name" style="font-size: 16px; font-weight: 700;">Kay Ford</h5>
-                    <p class="mb-0 status" style="font-size: 13px; font-weight: 500;">Fundraiser</p>
+                    <p class="mb-0 status" style="font-size: 13px; font-weight: 500;">Finance Chair</p>
                   </div>
                 </div>
               
             
                 <div class="gallery-item mx-3" style="border-radius: 17px; border-left: 5px solid #120C3C; display: flex; align-items: center; padding: 12px 10px; background: #230774; color: rgba(255,255,255,0.5);">
-                  <img src="./img/member2.png" alt="Neil Grady" class="img-fluid">
+                  <img src="./img/member5.png" alt="Neil Grady" class="img-fluid">
                   <div class="member-info d-flex flex-column justify-content-center" style="margin-left: 10px;">
                     <h5 class="member-name" style="font-size: 16px; font-weight: 700; color: #fff;">Ira Boyer</h5>
                     <p class="mb-0 status" style="font-size: 13px; font-weight: 500;">Employee</p>
@@ -112,10 +112,10 @@
                 </div>
               
                 <div class="gallery-item mx-3" style="border-radius: 17px; border-left: 5px solid #120C3C; display: flex; align-items: center; padding: 12px 10px; background: #C7ACC7;">
-                  <img src="./img/member3.png" alt="Neil Grady" class="img-fluid">
+                  <img src="./img/member5.png" alt="Neil Grady" class="img-fluid">
                   <div class="member-info d-flex flex-column justify-content-center" style="margin-left: 10px;">
-                    <h5 class="member-name" style="font-size: 16px; font-weight: 700;">Ms. Catherine Murphy</h5>
-                    <p class="mb-0 status" style="font-size: 13px; font-weight: 500;">Non-profit</p>
+                    <h5 class="member-name" style="font-size: 16px; font-weight: 700;">Moncello Stewart</h5>
+                    <p class="mb-0 status" style="font-size: 13px; font-weight: 500;">Advance Team Leader</p>
                   </div>
                 </div>
 
