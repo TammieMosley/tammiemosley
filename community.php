@@ -4,7 +4,11 @@
 <?php include "inc/links.php"; ?>
 
     <title>Community | Tammie Mosley | Chatham County Clerk of Superior Court</title>
-    
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 </head>
 <body style="background-color: #faf7f2;">
     <!--[if IE]>
@@ -687,7 +691,7 @@
 
           <div id="carouselExample" class="carousel slide news-slider position-relative mt-5">
             <div class="carousel-inner">
-              <div class="carousel-item active">
+              <div class="carousel-item">
                 <div class="news p-3 p-lg-5 rounded-5">
                   <div class="row">
                     <div class="col-lg-5 text-center text-lg-start ">
@@ -726,8 +730,20 @@
                   </div>
                 </div>
               </div>
+              <div class="carousel-item active">
+  <div class="news p-3 p-lg-5 rounded-5">
+    <div class="row">
+        <div class="col-lg-5 text-center text-lg-start">
+          <img src="./img/tammie-mosley_COMMUNITY-News_free-notary-public-virtual-online-training_EVENT_1-24-2024.webp" alt="Chatham County, GA Superior Court Clerk, Democrat Tammie Mosley, is featured hosting a free notary public training virtual online event that is open to the public. The graphic has text that inlcudes a Zoom link. The date of the event is Wednesday, January 24, 2024 (1-24-2024)." class="img-fluid">
+        </div>
+              <div class="col-lg-7 text-center text-lg-start">
+                  <h3 class="news-title mt-4 mt-lg-0">Superior Court Clerk Tammie Mosley Announces a FREE Online Notary Public Training Class"</h3>
+                  <a href="https://fb.me/e/48GRYeFVJ/" target="_blank" class="primary-btn d-inline-block mt-4">Learn More</a>
+                </div>
             </div>
-
+          </div>
+        </div>
+    </div>
             <div class="news-slider-controls">
               <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
                 <i class="fas fa-chevron-left"></i>
