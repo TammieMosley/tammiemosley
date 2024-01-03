@@ -691,7 +691,7 @@
                 <div class="news p-3 p-lg-5 rounded-5">
                   <div class="row">
                     <div class="col-lg-5 text-center text-lg-start ">
-                      <img src="./img/news.png" alt="News" class="img-fluid">
+                      <img src="./img/tammie-mosley_COMMUNITY-News_passport-office-opening.webp" alt="Chatham County, GA Superior Court Clerk, Democrat Tammie Mosley, is featured in the Savannah Morning News celebrating passport services and office grand opening and ribbon cutting with various Superior Court Clerk office employees." class="img-fluid">
                     </div>
                     <div class="col-lg-7 text-center text-lg-start ">
                       <h3 class="news-title mt-4 mt-lg-0">Ribbon Cutting for the Grand Opening of Passport Services in the Chatham County Clerk of Superior Court office.</h3>
@@ -704,7 +704,7 @@
                 <div class="news p-3 p-lg-5 rounded-5">
                   <div class="row">
                     <div class="col-lg-5 text-center text-lg-start ">
-                      <img src="./img/tammie-mosley_COMMUNITY-News_FANS.webp" alt="News" class="img-fluid">
+                      <img src="./img/tammie-mosley_COMMUNITY-News_FANS.webp" alt="Chatham County, GA Superior Court Clerk, Democrat Tammie Mosley, is featured in the Savannah Tribune Newspaper celebrating F.A.N.S. (Filing Activity Notifications System) services." class="img-fluid">
                     </div>
                     <div class="col-lg-7 text-center text-lg-start ">
                       <h3 class="news-title mt-4 mt-lg-0">Filing Activity Notification System (F.A.N.S.) to Benefit Chatham County Property Owners and all Georgia Citizens</h3>
@@ -722,6 +722,20 @@
                     <div class="col-lg-7 text-center text-lg-start">
                       <h3 class="news-title mt-4 mt-lg-0">Superior Court Clerk Tammie Mosley Celebrates New Families Coming Together with "Forever Hearts" Program</h3>
                       <a href="https://www.savannahnow.com/story/news/2019/11/18/chatham-county-superior-courty-clerk-tammie-mosley-recognizes-adoption-stakeholders-forever-hearts/2253368007/" target="_blank" class="primary-btn d-inline-block mt-4">Learn More</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+                <div class="news p-3 p-lg-5 rounded-5">
+                  <div class="row">
+                    <div class="col-lg-5 text-center text-lg-start">
+                      <img src="./img/tammie-mosley_COMMUNITY-News_free-notary-public-virtual-online-training_EVENT_1-24-2024.webp" alt="Chatham County, GA Superior Court Clerk, Democrat Tammie Mosley, is featured hosting a free notary public training virtual online event that is open to the public. The graphic has text that inlcudes a Zoom link. The date of the event is Wednesday, January 24, 2024 (1-24-2024)." class="img-fluid">
+                    </div>
+                    <div class="col-lg-7 text-center text-lg-start">
+                      <h3 class="news-title mt-4 mt-lg-0">Superior Court Clerk Tammie Mosley Announces a FREE Online Notary Public Training Class"</h3>
+                      <a href="https://fb.me/e/48GRYeFVJ/" target="_blank" class="primary-btn d-inline-block mt-4">Learn More</a>
                     </div>
                   </div>
                 </div>
